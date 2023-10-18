@@ -1,6 +1,6 @@
 ### hello there
 
-- 🔭 I’m currently working at [KazanExpress](https://kazanexpress.ru/) and [Uzum](https://uzum.uz/)
+- 🔭 I’m currently working at [Uzum](https://uzum.uz/)
 - 🌱 I’m currently learning DevOps practics, GitOps, Python, Terraform, AWS, YandexCloud
 - 💬 Ask me about DevOps
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/mans0ry/) and [Telegram](https://t.me/eskovilya)
